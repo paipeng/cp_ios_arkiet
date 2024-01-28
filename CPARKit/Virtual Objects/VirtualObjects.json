@@ -24,5 +24,10 @@
         "displayName": "Chair",
         "particleScaleInfo": { }
     },
+    {
+        "modelName": "bottle",
+        "displayName": "bottle",
+        "particleScaleInfo": { }
+    },
 ]
  
